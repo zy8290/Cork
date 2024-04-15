@@ -34,9 +34,9 @@
 #include "aabvh.h"
 
 #define REAL double
-extern "C" {
+//extern "C" {
 #include "triangle.h"
-}
+//}
 
 struct GenericVertType;
     struct IsctVertType;
